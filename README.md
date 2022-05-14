@@ -32,3 +32,6 @@
 
 這裡在程式執行完後會產生的檔案，包含裁切的字元以及填入字串畫面
 ![captcha](https://github.com/Trinity-SYT-SECURITY/Using-artificial-intelligence-to-crack-webpage-CAPTCHA/blob/main/program_verification/The-file-you-should-run-out-of-after-training.png)
+
+有任何問題請私訊我><
+Email:sytyactfhaha@gmail.com
