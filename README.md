@@ -10,8 +10,9 @@
 
 雖然有程式註解了，但我還是再來稍微解釋一下
 
-![captcha](https://github.com/Trinity-SYT-SECURITY/Using-artificial-intelligence-to-crack-webpage-CAPTCHA/program verification/ROI.png
-)
+主要是分析影像所關注的焦點，讓機器更容易識別出CAPTCHA的個別字
+![captcha](https://github.com/Trinity-SYT-SECURITY/Using-artificial-intelligence-to-crack-webpage-CAPTCHA/blob/main/program_verification/ROI.png)
 
 
 
+![captcha](https://github.com/Trinity-SYT-SECURITY/Using-artificial-intelligence-to-crack-webpage-CAPTCHA/blob/main/program_verification/Cut-and-identify-individual-captcha.png)
