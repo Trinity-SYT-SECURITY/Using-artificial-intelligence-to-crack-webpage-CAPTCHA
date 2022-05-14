@@ -10,10 +10,25 @@
 
 雖然有程式註解了，但我還是再來稍微解釋一下
 
-這是分析影像所關注的焦點，讓機器更容易識別出CAPTCHA的個別字
+原始網頁將不需要的文字區塊過濾，降低影響辨識的風險
+![captcha](https://github.com/Trinity-SYT-SECURITY/Using-artificial-intelligence-to-crack-webpage-CAPTCHA/blob/main/program_verification/original-web-filter-string.png)
+
+
+這是分析影像所關注的焦點，讓機器更容易識別出CAPTCHA的個別字元
 ![captcha](https://github.com/Trinity-SYT-SECURITY/Using-artificial-intelligence-to-crack-webpage-CAPTCHA/blob/main/program_verification/ROI.png)
 
 
 這裡單獨抓出所有識別出的字元，主要就是驗證是否有成功識別
 ![captcha](https://github.com/Trinity-SYT-SECURITY/Using-artificial-intelligence-to-crack-webpage-CAPTCHA/blob/main/program_verification/Cut-and-identify-individual-captcha.png)
 
+圖像二值化，二值化後的圖像只有黑跟白，使我們要的區塊在過濾雜訊後讓機器更容易識別出來
+![captcha](https://github.com/Trinity-SYT-SECURITY/Using-artificial-intelligence-to-crack-webpage-CAPTCHA/blob/main/program_verification/successful-identification.png)
+
+
+最後將識別出的驗證碼填入CAPTCHA驗證框中
+![captcha](https://github.com/Trinity-SYT-SECURITY/Using-artificial-intelligence-to-crack-webpage-CAPTCHA/blob/main/program_verification/Fill-in-the-verification-box-after-identification.png)
+
+![captcha](https://github.com/Trinity-SYT-SECURITY/Using-artificial-intelligence-to-crack-webpage-CAPTCHA/blob/main/program_verification/Validation-box-filled-successfully.png)
+
+這裡在程式執行完後會產生的檔案，包含裁切的字元以及填入字串畫面
+![captcha](https://github.com/Trinity-SYT-SECURITY/Using-artificial-intelligence-to-crack-webpage-CAPTCHA/blob/main/program_verification/The-file-you-should-run-out-of-after-training.png)
