@@ -10,9 +10,10 @@
 
 雖然有程式註解了，但我還是再來稍微解釋一下
 
-主要是分析影像所關注的焦點，讓機器更容易識別出CAPTCHA的個別字
+這是分析影像所關注的焦點，讓機器更容易識別出CAPTCHA的個別字
 ![captcha](https://github.com/Trinity-SYT-SECURITY/Using-artificial-intelligence-to-crack-webpage-CAPTCHA/blob/main/program_verification/ROI.png)
 
 
-
+這裡單獨抓出所有識別出的字元，主要就是驗證是否有成功識別
 ![captcha](https://github.com/Trinity-SYT-SECURITY/Using-artificial-intelligence-to-crack-webpage-CAPTCHA/blob/main/program_verification/Cut-and-identify-individual-captcha.png)
+
