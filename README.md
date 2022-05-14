@@ -8,7 +8,10 @@
 
 但其中其實有很多是一開始測試程式時驗證不出來的程式區塊(歲月的痕跡)
 
+雖然有程式註解了，但我還是再來稍微解釋一下
 
+![captcha](https://github.com/Trinity-SYT-SECURITY/Using-artificial-intelligence-to-crack-webpage-CAPTCHA/program verification/ROI.png
+)
 
 
 
