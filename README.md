@@ -4,6 +4,9 @@
 
 **這是受測試的平台 : http://siliconexam.com/st-register.php**
 
++ COLAB第一版 https://colab.research.google.com/drive/1g3QVSRNPLAoJAYAsWHtVCqlvGY8yisU7?usp=sharing
++ COLAB第二版 https://colab.research.google.com/drive/125hhmR_kqsn4yB1pZgFz-i7UC8NyW-qA#scrollTo=IAthCUYNX_fN
+
 此專案沒法百分百識別CAPTCHA，但嘗試訓練下來成功識別的機率其實挺高的
 
 但其中其實有很多是一開始測試程式時驗證不出來的程式區塊(歲月的痕跡)
